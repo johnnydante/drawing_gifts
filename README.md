@@ -1,1 +1,1 @@
-# drawing_gifts
+# Program, który imituje rzeczywiste losowanie karteczek z imionami osób, które po kolei wyciągają los w celu przydzielnia każdej osobie innej osoby z danego zbioru w celu np. kupienia prezentu świątecznego w taki sposób, aby żadna osoba nie mogła wylosować siebie.
